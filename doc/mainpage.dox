@@ -3,7 +3,7 @@
  * @mainpage DGtalTools - Digital Geometry Tools and Algorithms Library.
 
 
-DGtalTools is a separate github project containing tools constructed
+<a href="https://dgtal.org/dgtaltools/">DGtalTools</a> is a separate <a href="http://github.com/DGtal-team/DGtalTools">github project</a> containing tools constructed
 using DGtal library. The main goal of this part is to gather simple
 and useful tools exploiting the structures and algorithms defined in
 DGtal. The resulting tools could be useful to:
@@ -22,7 +22,7 @@ DGtal. The resulting tools could be useful to:
 
 The source code of the tools can also be used to non DGtal familiar
 user to show how to include the DGtal library framework directly in their
-own source code (in complement of DGtal tutorial http://liris.cnrs.fr/dgtal/doc/nightly/packageTutorials.html).
+own source code (in complement of DGtal tutorial https://dgtal-team.github.io/doc-nightly/packageTutorials.html).
 
 
 @section Organisation
